@@ -1,6 +1,6 @@
 <!-- About -->
-<h2>💫 About Me:</h2>
-
+<h1>💫 About Me:</h1>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SwatiNeha&theme=github-dark" />
 <i>I am one of you if you are a Data Scientist / Analyst, always exploring WHAT’S NEXT in AI.</i><br/>
 Always learning, always leveling up!
 
