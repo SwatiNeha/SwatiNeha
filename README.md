@@ -55,11 +55,11 @@ Always learning, always leveling up!
 <h2>📊 GitHub Stats:</h2>
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true&theme=dark&rank_icon=github"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SwatiNeha&show_icons=true&theme=dark&rank_icon=github"/>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GH_USERNAME&theme=dark"/>
 </p>
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact&theme=dark"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiNeha&layout=compact&theme=dark"/>
 </p>
 
 <!-- Featured Projects -->
