@@ -1,8 +1,5 @@
-<!-- Top -->
-<h1 align="left">Renswick-style GitHub Portfolio — YOUR NAME</h1>
-
 <!-- About -->
-<h2>🪙 About Me:</h2>
+<h2>💫 About Me:</h2>
 
 <i>I am one of you if you are a Data Scientist / Analyst, always exploring WHAT’S NEXT in AI.</i><br/>
 Always learning, always leveling up!
