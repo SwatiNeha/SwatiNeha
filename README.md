@@ -8,10 +8,10 @@
 ---
 
 ### 🔭 Featured Projects
-- **Smart Invoice Extractor (FastAPI + OCR + LLM)** — Batch invoices, Docker, JSON schema output. [Repo](https://github.com/YOU/smart-doc-scanner)
-- **Aspect-Sentiment BI (Reddit → Power BI)** — Live tech chatter to crisp charts. [Repo](https://github.com/YOU/aspect-sentiment-bi)
-- **smartCurveFit (R + C++)** — Robust nonlinear curve fitting (L2/L1/Huber) with auto-loss selection. [Repo](https://github.com/YOU/smartCurveFit)
-- **US Crime (GAMs)** — Income/housing effects with interactions and diagnostics. [Repo](https://github.com/YOU/uscrime-gam)
+- **Smart Invoice Extractor (FastAPI + OCR + LLM)** — Batch invoices, Docker, JSON schema output. [Repo](https://github.com/SwatiNeha/smart-doc-scanner)
+- **Aspect-Sentiment BI (Reddit → Power BI)** — Live tech chatter to crisp charts. [Repo](https://github.com/SwatiNeha/aspect-sentiment-bi)
+- **smartCurveFit (R + C++)** — Robust nonlinear curve fitting (L2/L1/Huber) with auto-loss selection. [Repo](https://github.com/SwatiNeha/smartCurveFit)
+- **US Crime (GAMs)** — Income/housing effects with interactions and diagnostics. [Repo](https://github.com/SwatiNeha/uscrime-gam)
 
 ### 🧰 Tech Stack
 <!-- Shields (customize logos/text via shields.io) -->
