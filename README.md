@@ -25,11 +25,11 @@
 ### 📈 GitHub Stats
 <!-- Replace YOUR_GH_USERNAME everywhere -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GH_USERNAME" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwatiNeha&show_icons=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SwatiNeha" height="150" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiNeha&layout=compact" height="150" />
 </p>
 
 ### ✍️ Latest on Substack
