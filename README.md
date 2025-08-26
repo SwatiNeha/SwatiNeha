@@ -109,8 +109,8 @@
 <h2>🚀 Featured Projects:</h2>
 
 - **Smart Invoice Extractor (FastAPI + OCR + LLM)** — Batch invoices, Docker, JSON schema. → [Repo](https://github.com/SwatiNeha/smart-doc-scanner)
-- **Aspect-Sentiment BI (Reddit → Power BI)** — Live tech chatter → crisp charts. → [Repo](https://github.com/SwatiNeha/aspect-sentiment-bi)
-- **smartCurveFit (R + C++)** — Robust nonlinear curve fitting (L2/L1/Huber). → [Repo](https://github.com/SwatiNeha/smartCurveFit)
+- **Aspect-Sentiment BI (Reddit → Power BI)** — Live tech chatter → crisp charts. → [Repo](https://github.com/SwatiNeha/aspect-sentiment-bi) [in progress]
+- **smartCurveFit (R + C++)** — Robust nonlinear curve fitting (L2/L1/Huber). → [Repo](https://github.com/SwatiNeha/smartCurveFit) [in progress]
 - **US-Crime GAMs** — Interactions + diagnostics around housing/income. → [Repo](https://github.com/SwatiNeha/uscrime-gam)
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwatiNeha&theme=github-dark" />
