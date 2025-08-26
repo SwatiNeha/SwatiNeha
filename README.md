@@ -99,7 +99,7 @@
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SwatiNeha&show_icons=true&theme=dark&rank_icon=github"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=SWatiNeha&theme=dark"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=SwatiNeha&theme=dark"/>
 </p>
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiNeha&layout=compact&theme=dark"/>
