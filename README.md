@@ -98,7 +98,7 @@
 <h2>📊 GitHub Stats:</h2>
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SwatiNeha&show_icons=true&cache_seconds=1800&v=4&theme=dark&rank_icon=github"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SwatiNeha&show_icons=true&cache_seconds=3600&v=4&theme=dark&rank_icon=github"/>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=SwatiNeha&theme=dark"/>
 </p>
 <p>
