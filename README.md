@@ -3,9 +3,9 @@
 <p><i><b>I make data understandable for people and usable for machines.</b></i></p>
 <p><i>Dashboards for clarity, models for decisions, experiments for truth.</i></p>
 
-- 🧠 I build end-to-end data workflows—SQL → EDA → dashboards → ML → APIs.
-- 📊 Analytics that stick: tidy data, clear visuals, and stakeholder-ready Power BI dashboards.
-- 🧪 Current focus: Reddit aspect-sentiment → BI, invoice OCR → JSON, and robust curve fitting in R.
+- I build end-to-end data workflows -- from ingestion and SQL pipelines to EDA and feature engineering, then into analytics dashboards and deployed ML models served via APIs.
+- Analytics that stick: tidy data, clear visuals, and stakeholder-ready Power BI dashboards.
+- Current focus: Reddit aspect-sentiment → BI, invoice OCR → JSON, and robust curve fitting in R.
 
 <p>I’m a hands-on builder who cares about outcomes and clarity: I start with the question, shape tidy data, communicate with crisp visuals, and ship small, reliable services. I favor reproducible workflows (versioned experiments, tests, and CI with GitHub Actions), light FastAPI/Docker backends, and simple docs so others can use the work. I’m especially into NLP and robust modeling right now and happy to collaborate on analytics engineering, dashboarding, or turning notebooks into production-ready tools.</p>
 
