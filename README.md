@@ -1,4 +1,4 @@
-<h1>📂 Portfolio Website:</h1>
+<h1>Portfolio Website:</h1>
 <p><a href="https://swatineha.github.io/" target="_blank">https://swatineha.github.io/</a></p>
 
 <!-- About -->
