@@ -1,5 +1,8 @@
+<h1>📂 Portfolio Website:</h1>
+<p><a href="https://swatineha.github.io/" target="_blank">https://swatineha.github.io/</a></p>
+
 <!-- About -->
-<h1>💫 About Me:</h1>
+<h2>💫 About Me:</h2>
 <p><i><b>I make data understandable for people and usable for machines.</b></i></p>
 <p><i>Dashboards for clarity, models for decisions, experiments for truth.</i></p>
 
@@ -11,10 +14,6 @@
 
 <!-- Socials -->
 <h2>🌐 Socials:</h2>
-
-<a href="https://swatineha.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-</a>
 
 <a href="https://www.linkedin.com/in/swati694/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
