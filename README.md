@@ -8,7 +8,7 @@
 
 - I build end-to-end data workflows -- from ingestion and SQL pipelines to EDA and feature engineering, then into analytics dashboards and deployed ML models served via APIs.
 - Analytics that stick: tidy data, clear visuals, and stakeholder-ready Power BI dashboards.
-- Current focus: Reddit aspect-sentiment → BI, invoice OCR → JSON, and robust curve fitting in R.
+- Current focus: Doing research as part of my Masters program using Computer Vision.
 
 <p>I’m a hands-on builder who cares about outcomes and clarity: I start with the question, shape tidy data, communicate with crisp visuals, and ship small, reliable services. I favor reproducible workflows (versioned experiments, tests, and CI with GitHub Actions), light FastAPI/Docker backends, and simple docs so others can use the work. I’m especially into NLP and robust modeling right now and happy to collaborate on analytics engineering, dashboarding, or turning notebooks into production-ready tools.</p>
 
@@ -113,7 +113,7 @@
 
 - **Smart Invoice Extractor (FastAPI + OCR + LLM)** — Batch invoices, Docker, JSON schema. → [Repo](https://github.com/SwatiNeha/smart-doc-scanner)
 - **Aspect-Sentiment BI (Reddit → Power BI)** — Live tech chatter → crisp charts. → [Repo](https://github.com/SwatiNeha/aspect-sentiment-bi)
-- **smartCurveFit (R + C++)** — Robust nonlinear curve fitting (L2/L1/Huber). → [Repo](https://github.com/SwatiNeha/smartcurvefit) [in progress]
+- **smartCurveFit (R + C++)** — Robust nonlinear curve fitting (L2/L1/Huber). → [Repo](https://github.com/SwatiNeha/smartcurvefit)
 - **US-Crime GAMs** — Interactions + diagnostics around housing/income. → [Repo](https://github.com/SwatiNeha/uscrime-gam)
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwatiNeha&theme=github-dark" />
